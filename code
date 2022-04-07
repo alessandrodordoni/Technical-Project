@@ -1,0 +1,3 @@
+data = readtable('ALO.PA.csv')
+
+disp(data)
